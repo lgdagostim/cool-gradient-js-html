@@ -5,4 +5,4 @@
 * The transition works perfectly, but everything between \<body\> need some attention, just because needs a correction in **js**.
 ---
 >  Written by [__LGDAGOSTIM__](http://www.lgdagostim.tk "Access now!")
- 
+---
